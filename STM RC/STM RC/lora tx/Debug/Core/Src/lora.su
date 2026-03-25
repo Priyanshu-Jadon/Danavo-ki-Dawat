@@ -1,0 +1,9 @@
+../Core/Src/lora.c:8:16:LoRa_SPI	32	static
+../Core/Src/lora.c:15:13:LoRa_WriteReg	16	static
+../Core/Src/lora.c:23:16:LoRa_ReadReg	24	static
+../Core/Src/lora.c:34:13:LoRa_Reset	8	static
+../Core/Src/lora.c:43:6:LoRa_Init	8	static
+../Core/Src/lora.c:82:6:LoRa_SetTxMode	8	static
+../Core/Src/lora.c:87:6:LoRa_SetRxMode	8	static
+../Core/Src/lora.c:94:6:LoRa_Transmit	24	static
+../Core/Src/lora.c:128:9:LoRa_Receive	32	static
