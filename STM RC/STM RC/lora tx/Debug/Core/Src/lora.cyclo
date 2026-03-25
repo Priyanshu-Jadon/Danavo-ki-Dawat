@@ -1,9 +1,0 @@
-../Core/Src/lora.c:8:16:LoRa_SPI	1
-../Core/Src/lora.c:15:13:LoRa_WriteReg	1
-../Core/Src/lora.c:23:16:LoRa_ReadReg	1
-../Core/Src/lora.c:34:13:LoRa_Reset	1
-../Core/Src/lora.c:43:6:LoRa_Init	1
-../Core/Src/lora.c:82:6:LoRa_SetTxMode	1
-../Core/Src/lora.c:87:6:LoRa_SetRxMode	1
-../Core/Src/lora.c:94:6:LoRa_Transmit	4
-../Core/Src/lora.c:128:9:LoRa_Receive	4
